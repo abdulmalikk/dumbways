@@ -21,7 +21,7 @@ const filterKonversiArray = (array1, array2, vocal) => {
   HASIL FILTER DAN KONVERSI
   =================================
   Kata yang difilter muncul sebanyak:
-  ${objKata.map((obj) => `Kata ${obj.kata} muncul sebanyak: ${obj.jumlah} kali \n`)}
+  ${objKata.map((obj) => `Kata "${obj.kata}" muncul sebanyak: ${obj.jumlah} kali \n`)}
   =================================
   Kalimat yang dikonversi menjadi "${vocal}" :
   ${newArray2.map((arr, index) => `${array2[index]} => ${arr}\n`)}

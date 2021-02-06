@@ -89,4 +89,4 @@ const hitungGaji = (golongan, jenkel, status, anak) => {
 }
 
 // memanggil fungsi hitungGaji
-hitungGaji('Golongan I', 'laki-laki', 'menikah', 1);
+hitungGaji('Golongan IV', 'laki-laki', 'menikah', 1);
