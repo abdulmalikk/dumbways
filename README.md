@@ -10,7 +10,7 @@ Software yang digunakan:
 ### Cara Menjalankan
 
 Perangkat harus terinstall [Node.js](https://nodejs.org/).
-Silahkan buka terminal dan arahkan ke folder ini, dan jalankan dengan cara seperti ini:
+Silahkan buka terminal dan arahkan ke folder ini, lalu jalankan dengan cara seperti ini:
 
 ```sh
 // File 1.js
