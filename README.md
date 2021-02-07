@@ -16,7 +16,7 @@ Silahkan buka terminal dan arahkan ke folder ini, dan jalankan dengan cara seper
 // File 1.js
 $ node 1
 
-// File 3.js...
+// File 3.js
 $ node 3
 ```
 
